@@ -1,6 +1,6 @@
 # Yuzi Lyu's Self-Introduction
 ![Personal Picture](personalpic.jpg)
-## As a novice programmer
+## A novice programmer
 
 ### Education
 Bachelor of Science at University of California, San Diego   
@@ -8,6 +8,7 @@ _Expected June ~~2023~~ 2022_
 
 ### Publication
 I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning. Currently I am working with [Professor Soosai Raj @ University of California, San Diego](https://adalbertgerald.github.io/) 
+
 You can find my publication here:
 
 
