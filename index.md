@@ -2,6 +2,12 @@
 ![Personal Picture](personalpic.jpg)
 ## A novice programmer
 
+### Summary
+To quote Alan Turing:
+> We can only see a short distance ahead, but we can see plenty there that needs to be done
+
+I am passionate about using my knowledge to solve real-world problems. I am a restorative leader and consistent self-starter. I am dutiful with responsibilities and adapt quickly to new software/framework.
+
 ### Education
 Bachelor of Science at University of California, San Diego   
 **_Expected June ~~2023~~ 2022_**
@@ -24,6 +30,19 @@ You can find my publication here:
 - Currently a Computer Science and Engineering Tutor for **_CSE8B: Intro to Java II._**
 - Project Chair of Computer Science and Engineering Society at UC San Diego. Learn more about Tri-Dev program [here](https://ucsdcses.github.io/tridev/)
 
+### Future Endeavors
+I will be joining ServiceNow this summer as a Software Engineering Intern.
+
+### About this Lab
+Many git commands were reviewed in this lab. Commands suchs as 
+```
+git add
+git branch
+git checkout
+git clone
+git commit
+git push
+```
 
 ```markdown
 **Bold** and _Italic_ and `Code` text
