@@ -1,8 +1,8 @@
 # Yuzi Lyu's Self-Introduction
 ## As a novice programmer
-#### Second-year Computer Science major at University of California, San Diego 
 
-
+### Education
+Bachelor of Science at University of California, San Diego _Expected June 2022_
 
 ### Publication
 I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning. Currently I am working with [Professor Soosai Raj @ University of California, San Diego](https://adalbertgerald.github.io/) 
@@ -15,6 +15,12 @@ You can find my publication here:
 - [_A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_](https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ)
 
 **Feel free to reach out to me if you are also interested in this kind of research.**
+
+### Campus Involvement
+- Currently a Computer Science and Engineering Tutor for CSE8B: Intro to Java II.
+- Project Chair of Computer Science and Engineering Society at UC San Diego. Learn more about Tri-Dev program [here](https://ucsdcses.github.io/tridev/)
+
+
 ```markdown
 **Bold** and _Italic_ and `Code` text
 
