@@ -18,10 +18,10 @@ You can find my publication here:
 2. Currently working on the stress level and the sense of belonging of Non-Native English Speakers
 	- no publication yet
 
-**Feel free to reach out to me if you are also interested in this kind of research.**
+**Feel free to _reach out to me_ if you are also interested in this kind of research.**
 
 ### Campus Involvement
-- Currently a Computer Science and Engineering Tutor for CSE8B: Intro to Java II.
+- Currently a Computer Science and Engineering Tutor for **_CSE8B: Intro to Java II._**
 - Project Chair of Computer Science and Engineering Society at UC San Diego. Learn more about Tri-Dev program [here](https://ucsdcses.github.io/tridev/)
 
 
