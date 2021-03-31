@@ -2,23 +2,17 @@
 ## As a novice programmer
 #### Second-year Computer Science major at University of California, San Diego 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
+I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning.
+You can find my publication here:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
+1. _A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_
+- https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ
+- [_A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_](https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ)
 2. List
 
 **Bold** and _Italic_ and `Code` text
