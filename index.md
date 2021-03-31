@@ -1,5 +1,5 @@
 # Yuzi Lyu's Self-Introduction
-![Personal Picture](personalpic.jpeg)
+![Personal Picture](personalpic.jpg)
 ## As a novice programmer
 
 ### Education
