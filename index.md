@@ -1,7 +1,7 @@
 # Yuzi Lyu's Self-Introduction
 ![Personal Picture](personalpic.jpg)
 ## A novice programmer
-
+[The original picture can be found here](/personalpic.jpg)
 ### Summary
 To quote Alan Turing:
 > We can only see a short distance ahead, but we can see plenty there that needs to be done
