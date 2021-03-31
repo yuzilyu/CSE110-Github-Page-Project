@@ -2,17 +2,19 @@
 ![Personal Picture](personalpic.jpg)
 ## A novice programmer
 [The original picture can be found here](/personalpic.jpg)
-### Summary
+
+My [Linkedin](https://www.linkedin.com/in/yuzi-lyu-13658a1a3/)
+## Summary
 To quote Alan Turing:
 > We can only see a short distance ahead, but we can see plenty there that needs to be done
 
 I am passionate about using my knowledge to solve real-world problems. I am a restorative leader and consistent self-starter. I am dutiful with responsibilities and adapt quickly to new software/framework.
 
-### Education
+## Education
 Bachelor of Science at University of California, San Diego   
 **_Expected June ~~2023~~ 2022_**
 
-### Publication
+## Publication
 I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning. Currently I am working with [Professor Soosai Raj @ University of California, San Diego](https://adalbertgerald.github.io/) 
 
 You can find my publication here:
@@ -26,14 +28,14 @@ You can find my publication here:
 
 **Feel free to _reach out to me_ if you are also interested in this kind of research.**
 
-### Campus Involvement
+## Campus Involvement
 - Currently a Computer Science and Engineering Tutor for **_CSE8B: Intro to Java II._**
 - Project Chair of Computer Science and Engineering Society at UC San Diego. Learn more about Tri-Dev program [here](https://ucsdcses.github.io/tridev/)
 
-### Future Endeavors
+## Future Endeavors
 I will be joining ServiceNow this summer as a Software Engineering Intern.
 
-### About this Lab
+## About this Lab
 Many git commands were reviewed in this lab. Commands suchs as 
 ```
 git add
