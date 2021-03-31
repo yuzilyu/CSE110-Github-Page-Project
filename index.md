@@ -5,7 +5,7 @@
 
 
 ### Publication
-I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning.
+I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning. Currently I am working with [Professor Soosai Raj @ University of California, San Diego](https://adalbertgerald.github.io/) 
 You can find my publication here:
 
 ```markdown
@@ -13,7 +13,8 @@ You can find my publication here:
 1. _A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_
 - https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ
 - [_A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_](https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ)
-2. List
+
+**Feel free to reach out to me if you are also interested in this kind of research.**
 
 **Bold** and _Italic_ and `Code` text
 
